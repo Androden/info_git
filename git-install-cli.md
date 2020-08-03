@@ -63,7 +63,7 @@ VS Code можно взять здесь <https://code.visualstudio.com/Download
 
 1. [Заведи аккаунт на GitHub](https://github.com/join)
 
-2. Сгенерируй ssh-ключ. Для этого в терминале (Git Bash на Windows) введи:
+2. Сгенерируй ssh-ключ (Чтобы в дальнейшем не нужно было каждый раз вводить пароль) Для этого в терминале (Git Bash на Windows) введи:
 
    `ssh-keygen -t rsa -b 4096`
 
