@@ -30,10 +30,9 @@
 
 Еще несколько способов выучить Git от простых к сложным:
 1. Пройти [супер-краткий гайд](http://rogerdudler.github.io/git-guide/)
-2. Скачать на рабочий стол [Git Cheat Sheet](https://github.com/kontur-intern-2016/git-cheatsheet-visual)
+2. Скачать на рабочий стол [Git Cheat Sheet](https://github.com/schumixer/info_git/tree/master/git_cheat_sheet)
 3. Пройти [интерактивный учебный курс](https://try.github.io) от github и schoolacademy по основам git
 4. Пройти [туториал по git в консоли](https://githowto.com/ru)
-5. Решить специально заготовленную [практическую задачу](https://github.com/kontur-courses/git-merge-task) на работу с ветками
-6. Пройти игру-квест https://github.com/hgarc014/git-game
-7. Пройти интерактивную игру про работу с ветками http://pcottle.github.io/learnGitBranching/
-8. Прочитать официальную книгу по git: http://git-scm.com/book/ru/v2 Первые три главы обязательны для уверенного использования git
+5. Пройти интерактивную игру про работу с ветками http://pcottle.github.io/learnGitBranching/
+6. Прочитать официальную книгу по git: http://git-scm.com/book/ru/v2 Первые три главы обязательны для уверенного использования git
+7. Посмотреть небольшой видеокурс по git https://proglib.io/p/system-git/ 
