@@ -55,6 +55,8 @@
 
 ## Итоговое задание
 
+Его можно посмотреть [здесь](https://github.com/schumixer/info_git/blob/master/git-hw.md)
+
 
 
 
