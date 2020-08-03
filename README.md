@@ -22,7 +22,7 @@
 
 Этот вариант подходит для Linux, Mac и Windows. Потребуется установить Git Bash и Visual Studio Code(Этот редактор выбран по личным прдпочтениям автора курса и его установка не является обязательной, но рекомендованна).  
 В этом случае задания будут выполняться в Visual Studio Code и терминале.  
-Для этого [выполни эти шаги подготовки](https://github.com/kontur-courses/git/blob/master/git-install-cli.md).
+Для этого [выполни эти шаги подготовки](https://github.com/schumixer/info_git/blob/master/git-install-cli.md).
 
 
 
