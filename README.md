@@ -26,14 +26,18 @@
 
 
 
-## Вспомогательные материалы для заккрепления знаний
+## Вспомогательные материалы для закрепления знаний
 
 Еще несколько способов выучить Git от простых к сложным:
 1. Пройти [супер-краткий гайд](http://rogerdudler.github.io/git-guide/)
-2. Скачать на рабочий стол [Git Cheat Sheet](https://github.com/schumixer/info_git/tree/master/git_cheat_sheet)
+2. Скачать [Git Cheat Sheet](https://github.com/schumixer/info_git/tree/master/git_cheat_sheet)
 3. Пройти [интерактивный учебный курс](https://try.github.io) от github и schoolacademy по основам git
 4. Пройти [туториал по git в консоли](https://githowto.com/ru)
 5. Пройти интерактивную игру про работу с ветками http://pcottle.github.io/learnGitBranching/
 6. Прочитать официальную книгу по git: http://git-scm.com/book/ru/v2 Первые три главы обязательны для уверенного использования git
 7. Посмотреть [небольшой видеокурс по git] (https://proglib.io/p/system-git/)
 8. Прочитать книгу по git [Полезная книга по git](https://github.com/schumixer/info_git/tree/master/literature)
+
+## Материалы курса
+
+Презентации с курса по git
