@@ -36,3 +36,4 @@
 5. Пройти интерактивную игру про работу с ветками http://pcottle.github.io/learnGitBranching/
 6. Прочитать официальную книгу по git: http://git-scm.com/book/ru/v2 Первые три главы обязательны для уверенного использования git
 7. Посмотреть небольшой видеокурс по git https://proglib.io/p/system-git/ 
+8. Прочитать книгу по git [Полезная книга по git](https://githowto.com/ru)
