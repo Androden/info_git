@@ -40,4 +40,19 @@
 
 ## Материалы курса
 
-Презентации с курса по git
+[Презентации с курса по git](https://github.com/schumixer/info_git/tree/master/presentations)
+
+## Тесты
+
+Нужно будет создать google аккаунт, у кого нет.
+
+1. [Тест 1](https://forms.gle/du2Qk9BfVXCREBGt6)
+2. [Тест 2](https://forms.gle/VZqmrX8twrBW2srp7)
+3. [Тест 3]()
+4. [Тест 4]()
+
+## Итоговое задание
+
+
+
+
