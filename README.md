@@ -51,7 +51,7 @@
 1. [Тест 1](https://forms.gle/du2Qk9BfVXCREBGt6)
 2. [Тест 2](https://forms.gle/VZqmrX8twrBW2srp7)
 3. [Тест 3](https://forms.gle/c2tjaKGKVFcDoNDD6)
-4. [Тест 4]()
+4. [Тест 4](https://forms.gle/kdGBU3cPSqRnJjow6)
 
 ## Итоговое задание
 
