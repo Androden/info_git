@@ -40,9 +40,6 @@
 8. Прочитать [книгу по git](https://github.com/schumixer/info_git/tree/master/literature)
 9. Прочитать [статью](https://habr.com/ru/post/342116/) на хабре
 
-## Материалы курса
-
-[Презентации с курса по git](https://github.com/schumixer/info_git/tree/master/presentations)
 
 ## Тесты
 
