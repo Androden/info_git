@@ -47,10 +47,10 @@
 Тест выполняется с одной электронной почты 1 раз.
 Перед прохождением тестов прошу заполнить [форму](https://forms.gle/x83pBLS1eQZPRpcH6) со своими данными: ФИО и email(google аккаунт).
 
-1. [Тест 1](https://forms.gle/du2Qk9BfVXCREBGt6)
-2. [Тест 2](https://forms.gle/VZqmrX8twrBW2srp7)
-3. [Тест 3](https://forms.gle/c2tjaKGKVFcDoNDD6)
-4. [Тест 4](https://forms.gle/kdGBU3cPSqRnJjow6)
+1. [Тест 1](https://forms.gle/du2Qk9BfVXCREBGt6) Минимальный проходной был: 5/7
+2. [Тест 2](https://forms.gle/VZqmrX8twrBW2srp7) Минимальный проходной был: 8/11
+3. [Тест 3](https://forms.gle/c2tjaKGKVFcDoNDD6) Минимальный проходной был: 5/6
+4. [Тест 4](https://forms.gle/kdGBU3cPSqRnJjow6) Минимальный проходной был: 7/10
 
 ## Итоговое задание
 
